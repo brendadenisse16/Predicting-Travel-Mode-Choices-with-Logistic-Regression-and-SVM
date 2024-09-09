@@ -27,7 +27,7 @@ To run the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/brendadenisse16/MachineLearning.git
+   git clone https://github.com/brendadenisse16/Predicting-Travel-Mode-Choices-with-Logistic-Regression-and-SVM.git
 2. **Set up the environment**:
    Create a conda environment using the environment.yml file:
    ```bash
